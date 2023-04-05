@@ -7,3 +7,4 @@ pkt_kg/
 resources/
 resources-da-aggiungere/
 test-pheknowlator_source_metadata.xlsx
+.gitignore
