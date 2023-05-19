@@ -1,0 +1,7 @@
+.DS_store
+.ipynb_checkpoints
+builds/
+notebooks-da-aggiungere/
+pkt_kg/
+resources-da-aggiungere/
+test-pheknowlator_source_metadata.xlsx
